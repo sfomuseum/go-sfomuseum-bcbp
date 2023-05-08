@@ -1,0 +1,4 @@
+github.com/aaronland/go-wasi v0.0.0-20230425021126-86dff0a238e9 h1:K9e4E3UwURuD5EzWCPE51KOtLbLWaphHEk5SRheQehU=
+github.com/aaronland/go-wasi v0.0.0-20230425021126-86dff0a238e9/go.mod h1:HXFs5eLHiIcRSXZH+yfDMQ7Mu1UgePmaglXqH9/IwW8=
+github.com/tetratelabs/wazero v1.0.1 h1:xyWBoGyMjYekG3mEQ/W7xm9E05S89kJ/at696d/9yuc=
+github.com/tetratelabs/wazero v1.0.1/go.mod h1:wYx2gNRg8/WihJfSDxA1TIL8H+GkfLYm+bIfbblu9VQ=
